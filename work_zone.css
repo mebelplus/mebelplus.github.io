@@ -226,9 +226,9 @@ html, body{
         grid-column: 1/3;
     }
 
-    .grid main >:nth-child(10){
-        height: 400px;
-    }
+    /* .grid main >:nth-child(10){
+        height: 600px;
+    } */
 }
 
 .grid {
@@ -289,9 +289,9 @@ footer {
     font-size: 14px;
     text-align: left;
 }
-.grid main >:nth-child(10){
+/* .grid main >:nth-child(10){
     height: 400px;
-}
+} */
 
 .chars{
     border-radius: 10px;
